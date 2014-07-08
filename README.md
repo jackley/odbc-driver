@@ -4,7 +4,7 @@ l4-odbc-driver
 Laravel 4 ODBC 
 4.1+
 
-Installation
+Install
 ============
 
 To Install this in your Laravel 4.1 app add
