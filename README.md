@@ -2,6 +2,7 @@ l4-odbc-driver
 ==============
 
 Laravel 4 ODBC 
+4.1+
 
 Installation
 ============
